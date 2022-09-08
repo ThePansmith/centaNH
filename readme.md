@@ -7,8 +7,9 @@ Alongside having 100x quest rewards, this fork does a few other minor things:
 - Lootbag tradeup costs have been scaled
 	- eg 300 LV bags -> 100 MV bags
 
-## Installation
+### Installation
 Simply paste the contents of the overrides folder into your GTNH instance's .minecraft folder.
- 
-## Credits
+
+
+### Credits
 A fork of [standard expansion](https://github.com/basdxz/StandardQuestingPack) created specifically for CentaNH development by Ven, that did most of the heavy lifting.

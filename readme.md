@@ -1,5 +1,5 @@
 # CentaNH
-§bCentaNH§r is a fork of GTNH edited to have 100x quest rewards, made for fun.
+CentaNH is a fork of GTNH edited to have 100x quest rewards, made for fun.
 
 Alongside having 100x quest rewards, this fork does a few other minor things:
 - Shop cooldowns have been removed
@@ -11,4 +11,4 @@ Alongside having 100x quest rewards, this fork does a few other minor things:
 Simply paste the contents of the overrides folder into your GTNH instance's .minecraft folder.
  
 ## Credits
-A fork of standard expansion created specifically for CentaNH development by Ven, that did most of the heavy lifting.
+A fork of [standard expansion](https://github.com/basdxz/StandardQuestingPack) created specifically for CentaNH development by Ven, that did most of the heavy lifting.
